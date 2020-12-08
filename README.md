@@ -1,2 +1,2 @@
-# WorldBank_Add_alittlebit_Spicy
-Coursera Project add a little bit of spicy
+# WorldBank_Add_a little bit_of Spicy
+Coursera Project with a twist
