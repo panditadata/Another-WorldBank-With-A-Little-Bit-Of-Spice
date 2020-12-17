@@ -17,5 +17,5 @@ Table of Contents
 <li> ANOVA Calculation of Income Group Data and boxplot display</li>  
 <li> Selecting 2019 data </li>  
 <li> the indicator data for selected year is displayed using folium choropleth </li>
-<img src="images/map.png"/>
+<img src="images/map.PNG"/>
 </ul>
