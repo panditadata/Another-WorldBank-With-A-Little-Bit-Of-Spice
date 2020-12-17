@@ -4,8 +4,8 @@
 #### Finally, the indicator is displayed using folium choropleth
 Table of Content
 <ul>
-<li>Download data, Upload data, Read data into pandas</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>Download data, upload data, read data into pandas</li>
+<li>Cleaning the data by sorting and merging 2 data sets and dropping unnecessary columns</li>
+<li>Selecting 1 indicator </li>
+<li>Merging 2 data sets: % Unemployment and income group by country </li>
 </ul>
