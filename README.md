@@ -12,8 +12,10 @@ Table of Contents
 <li> Calculating main stats of the data set (mean, std, quartiles) </li>
 <li> Transpose the data year column, income groups as index </li>
 <li> Display mean % Female Unemployment by Income Group and Year </li>
+<img src="image/Mean Unemployment.png"/>
 <li> Display mean % Female Unemployment by Region and Year </li>
 <li> ANOVA Calculation of Income Group Data and boxplot display</li>  
 <li> Selecting 2019 data </li>  
 <li> the indicator data for selected year is displayed using folium choropleth </li>
+<img src="image/map.png"/>
 </ul>
