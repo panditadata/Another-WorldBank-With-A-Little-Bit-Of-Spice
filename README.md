@@ -22,3 +22,58 @@ Table of Contents
 
 
 
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "0fq0V22yg6XI"
+   },
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "o6Wszh4qnele"
+   },
+   "source": [
+    "# New Section"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "ivbOquPGg8yV"
+   },
+   "source": [
+    "# World Bank Education Data Analysis"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "id": "6X1oMnqOhNFU"
+   },
+   "source": [
+    "## Intro to Python\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {
+    "colab": {
+     "base_uri": "https://localhost:8080/"
+    },
+    "id": "N7zp2RIFiL6E",
+    "outputId": "66a5b807-74b5-4cb3-a226-ae290496120f"
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "World Bank\n",
+      "5\n",
+      "5.5\n",
+      "True\n"
