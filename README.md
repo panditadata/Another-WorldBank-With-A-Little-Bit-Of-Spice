@@ -5,7 +5,7 @@
 Table of Contents
 
 
-<a href=""><img src="worldss.html" alt="" width="240" height="180" border="10" /></a>
+<a href="worldss1.html" class="button">Continue Reading</a>
 
 <ul>
   
