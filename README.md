@@ -4,7 +4,7 @@
 #### Finally, the indicator data is displayed using folium choropleth (only data for Year 2019)
 Table of Contents
 <ul>
-<a href="#" class="image featured"><img src="worldss1.html" alt="" /></a> 
+<a href="#"><img src="worldss1.html" alt="" /></a> 
 <li>Folium map to display Indicator % Female Unemployment WorldWide with different tiles</li>
 <a href="#" class="image featured"><img src="images/IM.gif" alt="" /></a>
 <li>Download data, upload data, read data into pandas</li>
