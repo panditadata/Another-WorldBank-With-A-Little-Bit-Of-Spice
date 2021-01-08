@@ -1,9 +1,11 @@
 
 #### Coursera Project to calculate basic statistics of a World Bank Dataset
-#### The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide)
-#### Finally, the indicator data is displayed using folium choropleth
+#### The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide) Year 2019
+#### Finally, the indicator data is displayed using folium choropleth (only data for Year 2019)
 Table of Contents
 <ul>
+<li>Folium map to display Indicator with different tiles</li>
+![folium map]("images/IM.gif)
 <li>Download data, upload data, read data into pandas</li>
 <li>Cleaning the data by sorting and merging 2 data sets and dropping unnecessary columns</li>
 <li>Selecting 1 indicator </li>
