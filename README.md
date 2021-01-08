@@ -3,6 +3,8 @@
 #### The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide) Year 2019
 #### Finally, the indicator data is displayed using folium choropleth (only data for Year 2019)
 Table of Contents
+
+
 <a href=""><img src="worldss.html" alt="" width="240" height="180" border="10" /></a>
 
 <ul>
