@@ -5,7 +5,7 @@
 Table of Contents
 
 
-<a href="worldss1.html" class="button">Continue Reading</a>
+<a href="worldss.html" class="button">Continue Reading</a>
 
 <ul>
   
