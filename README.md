@@ -5,12 +5,9 @@
 Table of Contents
 
 
-<a href="worldss.html" class="button">Continue Reading</a>
+<a href="https://panditadata.com/worldss1.html" class="button">Interactive Map</a>
 
 <ul>
-  
-  
-  <a href="#"><img src="worldss1.html" alt="" /></a> 
 <li>Folium map to display Indicator % Female Unemployment WorldWide with different tiles</li>
 <a href="#" class="image featured"><img src="images/IM.gif" alt="" /></a>
 <li>Download data, upload data, read data into pandas</li>
