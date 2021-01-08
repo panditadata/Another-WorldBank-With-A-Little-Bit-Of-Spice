@@ -6,7 +6,7 @@ Table of Contents
 <ul>
 <li>Folium map to display Indicator % Female Unemployment WorldWide with different tiles</li>
 <img src="images/IM.GIF"/>
-<a href="#" class="image featured"><img src="images/IMresize.gif" alt="" /></a>
+<a href="#" class="image featured"><img src="images/IM.gif" alt="" /></a>
 <li>Download data, upload data, read data into pandas</li>
 <li>Cleaning the data by sorting and merging 2 data sets and dropping unnecessary columns</li>
 <li>Selecting 1 indicator </li>
